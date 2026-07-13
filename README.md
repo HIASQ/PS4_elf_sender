@@ -25,7 +25,7 @@ This script improves upon basic socket senders by adding a dynamic user experien
    ```bash
    python payload_sender.py
    ```
-4. Enter your PS4's **IP Address** and the **Port** (usually `9020` or `9021`). For future runs, you can just press **Enter** to use the saved defaults.
+4. Enter your PS4's **IP Address** and the **Port** (usually `9090` or `9021`). For future runs, you can just press **Enter** to use the saved defaults.
 5. Select the payload you want to send by typing its corresponding number from the list.
 6. Press **Enter** to transmit the file to your console.
 
